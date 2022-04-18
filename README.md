@@ -127,8 +127,8 @@ pkg install nodejs
 pkg install ffmpeg
 pkg install imagemagick
 pkg install yarn
-git clone https://github.com/Hyzerr/Hyzer-MD-V2
-cd Hyzer-MD-V2
+git clone https://github.com/Nakataaard/MD3
+cd MD3
 yarn
 mc
 ganti session
