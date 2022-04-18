@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://telegra.ph/file/780bc71b9c7a90cb84e58.jpg" alt="Hyzer-MD" width="250"/>
+<img src="https://telegra.ph/file/6181b1e4682afedcf00ea.jpg" alt="Hyzer-MD" width="250"/>
 
 
 </p>
@@ -13,17 +13,17 @@
 <p align="center">
 </p>
 <p align="center">
-<a href="https://github.com/Paquito1923/elyasmd"><img title="Followers" src="https://img.shields.io/github/followers/Paquito1923?color=blue&style=flat-square"></a>
-<a href="https://github.com/Paquito1923/elyasmd"><img title="Stars" src="https://img.shields.io/github/stars/Paquito1923/elyasmd?color=red&style=flat-square"></a>
-<a href="https://github.com/Paquito1923/elyasmd/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Paquito1923/elyasmd?color=red&style=flat-square"></a>
-<a href="https://github.com/Paquito1923/elyasmdwatchers"><img title="Watching" src="https://img.shields.io/github/watchers/Paquito1923/elyasmd?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Nakataaard/MD3"><img title="Followers" src="https://img.shields.io/github/followers/Nakataaard?color=blue&style=flat-square"></a>
+<a href="https://github.com/Nakataaard/MD3"><img title="Stars" src="https://img.shields.io/github/stars/Nakataaard/MD3?color=red&style=flat-square"></a>
+<a href="https://github.com/Nakataaard/MD3/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Nakataaard/MD3?color=red&style=flat-square"></a>
+<a href="https://github.com/Nakataaard/MD3watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Nakataaard/MD3?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 ---
 
-# Hyzer Whatsapp MD
+# NahBotz MD
 ## Information
-> HyBot whatsapp using a Baileys library.
+> nahBotz whatsapp using a Baileys library.
 > Jika kamu menemukan semacam bug, harap untuk dimaklumi sementara
 >
 > • NOTE: INI SC GAK BISA BUAT SESSION DI TERMUX YA, JADI KALIAN CARI SESSION DULU PAKAI SC LAIN 
@@ -36,8 +36,8 @@
 
 <h3 align="center">Made by :</h3>
 <p align="center">
-  </a href="https://github.com/ilmanhdyt"><img src="https://github.com/Hyzerr.png?size=128" height="128" width="128" /></a>
-  </a href="https://github.com/ilmanhdyt"><img src="https://github.com/ilmanhdyt.png?size=128" height="128" width="128" /></a>
+  </a href="https://github.com/Nakataaard"><img src="https://github.com/MD3.png?size=128" height="128" width="128" /></a>
+  </a href="https://github.com/Nakataaard"><img src="https://github.com/MD3.png?size=128" height="128" width="128" /></a>
 </p>
 
 ## How To Change Menu Display
